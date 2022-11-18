@@ -1,0 +1,15 @@
+E:\Compar.Academy\csharp\Web\Algorithm_Solutions\Algorithm_Solutions\bin\Debug\net6.0\Algorithm_Solutions.exe
+E:\Compar.Academy\csharp\Web\Algorithm_Solutions\Algorithm_Solutions\bin\Debug\net6.0\Algorithm_Solutions.deps.json
+E:\Compar.Academy\csharp\Web\Algorithm_Solutions\Algorithm_Solutions\bin\Debug\net6.0\Algorithm_Solutions.runtimeconfig.json
+E:\Compar.Academy\csharp\Web\Algorithm_Solutions\Algorithm_Solutions\bin\Debug\net6.0\Algorithm_Solutions.dll
+E:\Compar.Academy\csharp\Web\Algorithm_Solutions\Algorithm_Solutions\bin\Debug\net6.0\Algorithm_Solutions.pdb
+E:\Compar.Academy\csharp\Web\Algorithm_Solutions\Algorithm_Solutions\obj\Debug\net6.0\Algorithm_Solutions.csproj.AssemblyReference.cache
+E:\Compar.Academy\csharp\Web\Algorithm_Solutions\Algorithm_Solutions\obj\Debug\net6.0\Algorithm_Solutions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Compar.Academy\csharp\Web\Algorithm_Solutions\Algorithm_Solutions\obj\Debug\net6.0\Algorithm_Solutions.AssemblyInfoInputs.cache
+E:\Compar.Academy\csharp\Web\Algorithm_Solutions\Algorithm_Solutions\obj\Debug\net6.0\Algorithm_Solutions.AssemblyInfo.cs
+E:\Compar.Academy\csharp\Web\Algorithm_Solutions\Algorithm_Solutions\obj\Debug\net6.0\Algorithm_Solutions.csproj.CoreCompileInputs.cache
+E:\Compar.Academy\csharp\Web\Algorithm_Solutions\Algorithm_Solutions\obj\Debug\net6.0\Algorithm_Solutions.dll
+E:\Compar.Academy\csharp\Web\Algorithm_Solutions\Algorithm_Solutions\obj\Debug\net6.0\refint\Algorithm_Solutions.dll
+E:\Compar.Academy\csharp\Web\Algorithm_Solutions\Algorithm_Solutions\obj\Debug\net6.0\Algorithm_Solutions.pdb
+E:\Compar.Academy\csharp\Web\Algorithm_Solutions\Algorithm_Solutions\obj\Debug\net6.0\Algorithm_Solutions.genruntimeconfig.cache
+E:\Compar.Academy\csharp\Web\Algorithm_Solutions\Algorithm_Solutions\obj\Debug\net6.0\ref\Algorithm_Solutions.dll
